@@ -8,7 +8,7 @@ I've spent the last decade on one idea: **the typed graph is the universal repre
 
 - **[Silky](https://github.com/brandonjcampbell/Silky)** — a graph-native word processor for planning stories non-linearly. Electron + React on Neo4j; the narrative *is* the graph.
 - **[Salt](https://github.com/brandonjcampbell/Salt)** — a single-file HTML typed-triple/rule engine that happens to run card games. Zero dependencies, ontology-driven.
-- **[Omicroid](https://store.steampowered.com/search/?term=omicroid)** — a game shipped on Steam, iOS, and Android under my studio, WoolyLittleGuys.
+- **[Omicroid](https://store.steampowered.com/app/897210/Omicroid/)** — a game shipped on Steam, iOS, and Android under my studio, WoolyLittleGuys.
 - **The Vorpal Blade** *(Northrop Grumman, internal)* — ontology-driven data integration platform on Neo4j; ~6 years in service, multi-million-node graph, powers digital-twin synthesis and a report consumed by hundreds of stakeholders.
 
 ## Talks & papers
